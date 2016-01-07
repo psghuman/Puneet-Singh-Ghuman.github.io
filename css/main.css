@@ -1,0 +1,112 @@
+.big{
+	min-width=1200px;
+	margin: 0 auto;
+}
+
+.navbar{
+  border-radius: 0;
+  font-family: "Shift";
+  margin-bottom: 0;
+  padding-top: 4px;
+  padding-left: 4px;
+  
+}
+
+.jumb{
+	height: 50%;
+	width: 100%;
+	background-image: url("images/1359726.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
+
+.jumb h1{
+	
+	color: white;
+	font-size: 48px;
+	font-weight: bold;
+	font-family: "Shift", "sans-sherif";
+}
+
+.jumb p{
+	color: white;
+	font-size: 20px;
+}
+
+.row{
+	margin: 0 auto;
+}
+
+.row #b1 h3{
+	font-family: "Shift", "sans-sherif";
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.jumb .container{
+	padding-left: 15%;
+	position: relative;
+	top: 60px;
+	text-align: left;
+}
+
+#foot{
+  color: gray;
+  background-color: black;
+  border-color: white;
+	padding-right:25px;
+	text-align:center;
+  padding-top:10px;
+	height: 40px;
+	width: 100%;
+	clear: both;
+	margin-top: 0px;
+}
+
+#b1 h3{
+    font-family: "Shift";
+    color: black;
+    padding-top: 10px;
+    min-width:55%;
+    height: auto;
+    padding-left: 10%;
+	
+}
+
+#b2 {
+  color: black;
+  padding-top:20px;
+  padding-left: 5.5%;
+  padding-right: 7%;
+  padding-bottom: 20px;
+  height: 50%;
+  width:100%;
+  color: white;
+  background: linear-gradient(
+      rgba(240, 228, 255, 0.60),
+      rgba(240, 228, 255, 0.40)
+    ), url("images/gra.png");
+	margin-bottom: 0px;
+  
+}
+#b1{
+	height: 55%;
+}
+
+.row #b1 p{
+    text-align: justify;
+    float:left;
+    height: auto;
+    padding-top: 10px;
+    padding-left: 5%;
+}
+.row #b1 span{
+    text-align: justify;
+    float:left;
+    height: auto;
+    padding-top: 10px;
+    padding-left: 5%;
+}
