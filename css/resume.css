@@ -1,0 +1,68 @@
+.bigwrap{
+	margin-left: 48px;
+	margin-right: 35px;
+	margin-top: 43px;
+	margin-bottom: 0px;
+}
+
+.header .container h1{
+	margin-bottom:10px;
+}
+#domain {
+	margin: auto;
+	width: fit-content;
+	width:-webkit-fit-content;
+	width:-moz-fit-content;
+	border: 2px solid #00ced1;
+	text-align: center;
+	
+}
+
+.headings{
+	font-weight: normal;
+	font-size:20px;
+}
+
+.subheadings{
+	font-weight: bold;
+	font-size: 15px;
+}
+
+.technical p{
+	margin: 0px;
+}
+
+.education p{
+	margin: 0px;
+}
+
+.links p{
+	margin: 0px;
+}
+
+.coursework p{
+	margin: 0px;
+}
+
+#actual .subheadings{
+     margin: 0px;
+	 }
+
+#actual .headings{
+	margin-left: 0px;
+}
+
+#actual{
+	height: 45%;
+}
+
+#support{
+	clear: left;
+}
+.cover{
+	border: 2px solid #00ced1;
+}
+
+#ex{
+	font-weight: normal;
+}
